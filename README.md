@@ -51,8 +51,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name: MANOJ G
-### Register Number:212222240060
+### Name: Sriram G
+### Register Number:212222230149
 
 ## Importing Modules
 ```
