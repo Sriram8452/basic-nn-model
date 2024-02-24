@@ -51,8 +51,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name: Deepak Raj S
-### Register Number:212222240023
+### Name: MANOJ G
+### Register Number:212222240060
 
 ## Importing Modules
 ```
